@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @25JuniorLaiza
+- 👀 I’m interested in learn more programming
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on application improvement
+- 📫 How to reach me: write to me on whatsapp 997772681
+- 😄 Pronouns: Junior
+- ⚡ Fun fact: winners never give up, those who give up never win
