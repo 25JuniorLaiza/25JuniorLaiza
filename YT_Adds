@@ -1,0 +1,23 @@
+function removeYouTubeAds() {
+    const adSelectors = [
+        'ytd-ad-module',
+        'ytd-ad-slot',
+        'ytd-ad-slot-renderer',
+        'ytd-ad-slot-container',
+        'ytd-ad-slot-container-renderer',
+        'ytd-ad-slot-overlay',
+        'ytd-ad-slot-overlay-renderer',
+        'ytd-ad-slot-overlay-container',
+        'ytd-ad-slot-overlay-container-renderer',
+        '.video-ads',
+        'ytd-promoted-sparkles-text-search-renderer',
+        'ytd-promoted-video-renderer',
+        'ytd-display-ad-renderer'
+    ];
+
+    const adElements = document.querySelectorAll(adSelectors.join(', '));
+    adElements.forEach(el => el.remove());
+    console.log(`Anuncios eliminados: ${adElements.length}`);
+}
+
+setInterval(removeYouTubeAds, 1000);
