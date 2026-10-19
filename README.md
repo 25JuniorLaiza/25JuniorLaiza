@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=6366f1&style=flat-square" alt="Contador de visitas" />
+<img src="https://komarev.com/ghpvc/?username=25JuniorLaiza&label=Visitas&color=6366f1&style=flat-square" alt="Contador de visitas" />
 
 </div>
 
