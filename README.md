@@ -74,7 +74,8 @@
 </div>
 
 ## Proyectos destacados
-
+AÚN NO HAY PROYECTOS DESTACADOS
+<!--
 <div align="center">
 
 <a href="https://github.com/25JuniorLaiza/PROYECTO_1">
@@ -85,13 +86,15 @@
 </a>
 
 </div>
+-->
 
 ## Actividad reciente
 
-<!-- Opcional: un workflow de GitHub Actions puede actualizar esta sección solo.
-     Si no lo vas a configurar, bórrala. -->
 
-- Último proyecto publicado: [nombre](https://github.com/25JuniorLaiza/PROYECTO)
+
+- Último proyecto publicado:
+  AHÚN NO HAY PROYECTOS PUBLICADOS
+<!--[nombre](https://github.com/25JuniorLaiza/PROYECTO) -->
 
 <div align="center">
 
